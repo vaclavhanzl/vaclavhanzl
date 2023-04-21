@@ -7,7 +7,7 @@ Here is some free software I (mostly) wrote:
 * [hacktrack: Move windows by four fingers on trackpad](https://github.com/vaclavhanzl/hacktrack) - I use it daily and frankly I love this feature and any computer without it feels broken :)
 * [prak: Czech phonetic alignment tool](https://github.com/vaclavhanzl/prak) - this is my gift to people doing Czech phonetics. I also have it as a PyTorch playground. [Adléta](https://github.com/adletka) wrote the Praat sctipt part (too scary for me) and carefully researched user needs to make sure we do a useful thing.
 
-You can <a rel="me" href="https://sigmoid.social/@vaclavh">find me at Mastodon</a>. (I still have Twitter but mostly do not use it anymore.)
+You can <a rel="me" href="https://sigmoid.social/@vaclavh">find me at Mastodon</a>. (I still have Twitter but mostly do not use it anymore.) You can also find me on Printables - see my hot new [Molecules for protein folding](https://www.printables.com/model/457984-molecules-for-protein-folding)!
 
 <!---
 vaclavhanzl/vaclavhanzl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
