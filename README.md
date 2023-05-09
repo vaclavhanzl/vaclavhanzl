@@ -1,6 +1,6 @@
 # Vaclav Hanzl
 
-Spent most of my [professional life](https://www.linkedin.com/in/vaclav-hanzl-326140199/) in Speech Recognition doing acoustic and language models and creating highly optimized decoders for most types of hardware you can imagine (and likely for some you cannot).
+Spent most of my professional life ([LinkedIn](https://www.linkedin.com/in/vaclav-hanzl-326140199/), [CV+Publications](https://docs.google.com/document/d/1Yfaq-PaX5DQuu6oqqKCoCS1OODi9G8fS7_soGNEnP5c/edit?usp=sharing)) in Speech Recognition doing acoustic and language models and creating highly optimized decoders for most types of hardware you can imagine (and likely for some you cannot).
 Occasionally, I do various divertimento projects outside AI, like typesetting a Japanese [textbook](http://denisa.vostry.cz/ucebnice/) or software for a scary hydraulic machine or [web about my wife's books](http://denisa.vostry.cz/). Fascinated by similarities in computer and living beings architectures ever since I realized that RNA is both software & hardware. Love opensource because successful opensource tends to be well designed.
 
 Here is some free software I (mostly) wrote:
